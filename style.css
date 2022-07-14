@@ -1,0 +1,13 @@
+span {
+    display: inline-block;
+}
+
+.edit {
+    width: 200px;
+}
+
+body {
+    text-align: center;
+    background-color: bisque;
+}
+
